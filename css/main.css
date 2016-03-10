@@ -15,10 +15,17 @@
 
 #square1 {
 	background: red;
+	height: 200px;
+	float: left;
+	/*display: inline-block;*/
 }
 
 #square2 {
 	background: blue;
+	width: 200px;
+	clear: right;
+	/*float: left;*/
+	/*display: inline-block;*/
 }
 
 #square3 {
